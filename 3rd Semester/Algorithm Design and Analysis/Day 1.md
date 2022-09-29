@@ -1,11 +1,11 @@
-# Session 1
+# Session 1 & 2
 Class: [[COMP6049001 - Algorithm Design and Analysis]]
-Session: 1
-Topics: Introduction of design and analysis of algorithms
+Session: 1 & 2
+Topics: 
+	- Introduction of design and analysis of algorithms
+	- Mathematical induction and recursive function
 Date: 2022-09-28
 Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
-
-Contact Email: HDARMADI@binus.edu
 
 ## Evaluation
 

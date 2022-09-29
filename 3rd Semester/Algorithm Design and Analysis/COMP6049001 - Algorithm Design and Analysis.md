@@ -4,4 +4,5 @@ Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
 
 ## Sessions
 
-- [[Session 1]]
+- [[Day 1]]
+- [[Day 2]]

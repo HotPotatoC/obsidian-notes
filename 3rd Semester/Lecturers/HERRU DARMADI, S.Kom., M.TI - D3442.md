@@ -1,1 +1,2 @@
-[[COMP6049001 - Algorithm Design and Analysis]]
+Contact Email: HDARMADI@binus.edu
+Course: [[COMP6049001 - Algorithm Design and Analysis]]

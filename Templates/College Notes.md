@@ -2,5 +2,5 @@
 Class: [[]]
 Session: 
 Topics: 
-Date: {{date}} | {{time}}
+Date: {{date}}
 Lecturer: [[]]

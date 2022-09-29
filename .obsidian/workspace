@@ -10,7 +10,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md"
+            "file": "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md"
           }
         },
         "group": "f37dded7e327f5ec"
@@ -20,12 +20,8 @@
         "type": "leaf",
         "dimension": 85.44698544698545,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "f37dded7e327f5ec"
       }
@@ -91,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,14 +137,14 @@
   "active": "f20519ae810ff4f0",
   "lastOpenFiles": [
     "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
-    "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+    "3rd Semester/Algorithm Design and Analysis/Day 2.md",
+    "3rd Semester/Algorithm Design and Analysis/Day 1.md",
     "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
     "Templates/College Notes.md",
     "COMP6049001 - Algorithm Design and Analysis.md",
     "HERRU DARMADI, S.Kom., M.TI - D3442.md",
     "what-is-an-algorithm.md",
     "Mockturnal/Fiverr.md",
-    "Untitled.md",
-    "1000_Projects.md"
+    "Untitled.md"
   ]
 }
