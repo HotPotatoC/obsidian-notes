@@ -4,26 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b3f102402b2c86dd",
+        "id": "f20519ae810ff4f0",
         "type": "leaf",
-        "dimension": 14.553014553014554,
+        "dimension": 78.1011781011781,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3rd Semester/Artificial Intelligence/Day 1.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "945aa3df5a3f5947"
+      },
+      {
+        "id": "1b1f8984df4c2827",
+        "type": "leaf",
+        "dimension": 21.8988218988219,
         "state": {
           "type": "outline",
           "state": {
-            "file": "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md"
+            "file": "3rd Semester/Artificial Intelligence/Day 1.md"
           }
         },
-        "group": "f37dded7e327f5ec"
-      },
-      {
-        "id": "f20519ae810ff4f0",
-        "type": "leaf",
-        "dimension": 85.44698544698545,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "f37dded7e327f5ec"
+        "group": "945aa3df5a3f5947"
       }
     ],
     "direction": "vertical"
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3rd Semester/Artificial Intelligence/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3rd Semester/Artificial Intelligence/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,27 +130,38 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "3rd Semester/Artificial Intelligence/Day 1.md"
+              }
+            }
+          },
+          {
+            "id": "b89b0d89c290b7fc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 386.8333435058594,
     "collapsed": true
   },
   "active": "f20519ae810ff4f0",
   "lastOpenFiles": [
-    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
-    "3rd Semester/Algorithm Design and Analysis/Day 2.md",
-    "3rd Semester/Algorithm Design and Analysis/Day 1.md",
+    "3rd Semester/Artificial Intelligence/Day 2.md",
+    "3rd Semester/Artificial Intelligence/Day 1.md",
     "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
-    "Templates/College Notes.md",
-    "COMP6049001 - Algorithm Design and Analysis.md",
-    "HERRU DARMADI, S.Kom., M.TI - D3442.md",
-    "what-is-an-algorithm.md",
-    "Mockturnal/Fiverr.md",
-    "Untitled.md"
+    "3rd Semester/Lecturers/PUTI ANDAM SURI, S.Kom, M.TI - D6416.md",
+    "3rd Semester/Artificial Intelligence/COMP6065001 - Artificial Intelligence.md",
+    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
+    "3rd Semester/Algorithm Design and Analysis/Day 1.md",
+    "Pasted image 20220929115650.png",
+    "Pasted image 20220929115432.png",
+    "3rd Semester/Courses (3rd Semester).md"
   ]
 }

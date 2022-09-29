@@ -1,4 +1,4 @@
-# Session 1 & 2
+# Day 1
 Class: [[COMP6049001 - Algorithm Design and Analysis]]
 Session: 1 & 2
 Topics: 
@@ -7,18 +7,18 @@ Topics:
 Date: 2022-09-28
 Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
 
-## Evaluation
+# Evaluation
 
 Assignment (Individual & Indonesia National Contest): 40%
 Mid Exam: 30%
 Final Exam: 30%
 
-## Materials
+# Materials
 - Definition of algorithms
 - Definition of pseudocode
 - Introduction to analysis of algorithms
 
-## What is an algorithm
+# What is an algorithm
 A sequence of computational steps that transform the input into the output.
 
 ## Criteria of algorithms
@@ -46,7 +46,7 @@ An expression of an algorithm
 3. How ot analyze algorithms
 4. How to test a program
 
-## Standard of writing pseudocode
+# Standard of writing pseudocode
 
 ### Blocks
 Always start with `BEGIN` and ends with `END` and always use indentation

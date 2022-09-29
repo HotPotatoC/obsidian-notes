@@ -1,4 +1,4 @@
-# Session 3 & 4
+# Day 2
 Class: [[COMP6049001 - Algorithm Design and Analysis]]
 Session: 3 & 4
 Topics: 

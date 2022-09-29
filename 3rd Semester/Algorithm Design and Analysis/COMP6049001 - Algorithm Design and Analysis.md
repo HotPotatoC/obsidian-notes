@@ -4,5 +4,5 @@ Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
 
 ## Sessions
 
-- [[Day 1]]
-- [[Day 2]]
+- [[3rd Semester/Algorithm Design and Analysis/Day 1]]
+- [[3rd Semester/Algorithm Design and Analysis/Day 2]]
