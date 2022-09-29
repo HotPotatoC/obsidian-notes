@@ -2,7 +2,7 @@
 Class: [[COMP6049001 - Algorithm Design and Analysis]]
 Session: 1
 Topics: Introduction of design and analysis of algorithms
-Date: 28-08-2022
+Date: 2022-09-28
 Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
 
 Contact Email: HDARMADI@binus.edu

@@ -6,11 +6,11 @@
       {
         "id": "b3f102402b2c86dd",
         "type": "leaf",
-        "dimension": 18.711018711018713,
+        "dimension": 14.553014553014554,
         "state": {
           "type": "outline",
           "state": {
-            "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md"
+            "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md"
           }
         },
         "group": "f37dded7e327f5ec"
@@ -18,11 +18,11 @@
       {
         "id": "f20519ae810ff4f0",
         "type": "leaf",
-        "dimension": 81.28898128898129,
+        "dimension": 85.44698544698545,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+            "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+                "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+                "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md"
+                "file": "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md"
               }
             }
           }
@@ -144,15 +144,15 @@
   },
   "active": "f20519ae810ff4f0",
   "lastOpenFiles": [
-    "COMP6049001 - Algorithm Design and Analysis.md",
-    "Templates/College Notes.md",
-    "HERRU DARMADI, S.Kom., M.TI - D3442.md",
+    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
     "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+    "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
+    "Templates/College Notes.md",
+    "COMP6049001 - Algorithm Design and Analysis.md",
+    "HERRU DARMADI, S.Kom., M.TI - D3442.md",
     "what-is-an-algorithm.md",
     "Mockturnal/Fiverr.md",
     "Untitled.md",
-    "1000_Projects.md",
-    "Go Concurrency Guide.md",
-    "100_Go mistakes.md"
+    "1000_Projects.md"
   ]
 }
