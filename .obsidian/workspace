@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f625c95b92fd5be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f102402b2c86dd",
+        "type": "leaf",
+        "dimension": 18.711018711018713,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md"
+          }
+        },
+        "group": "f37dded7e327f5ec"
+      },
+      {
+        "id": "f20519ae810ff4f0",
+        "type": "leaf",
+        "dimension": 81.28898128898129,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "f37dded7e327f5ec"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43113d8e9831765a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8042e61296a298f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82084638fee2c72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8519a2f857f25cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#study",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4fbcda636b52f52",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "9617df787758b9c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "171835dd1bbc34c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e00483da64318ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a92554632d132ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f38b78e79c1de3be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1bdd88841ded44d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3rd Semester/Algorithm Design and Analysis/Session 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f20519ae810ff4f0",
+  "lastOpenFiles": [
+    "COMP6049001 - Algorithm Design and Analysis.md",
+    "Templates/College Notes.md",
+    "HERRU DARMADI, S.Kom., M.TI - D3442.md",
+    "3rd Semester/Algorithm Design and Analysis/Session 1.md",
+    "what-is-an-algorithm.md",
+    "Mockturnal/Fiverr.md",
+    "Untitled.md",
+    "1000_Projects.md",
+    "Go Concurrency Guide.md",
+    "100_Go mistakes.md"
+  ]
+}
