@@ -5,7 +5,7 @@ Topics:
 	- Introduction to Artificial Intelligence
 	- Intelligent Agents
 Date: 2022-09-29
-Lecturer: [[PUTI ANDAM SURI, S.Kom, M.TI - D6416]]
+Lecturer: [[D6416 - PUTI ANDAM SURI, S.Kom, M.TI]]
 
 # Score distribution
 

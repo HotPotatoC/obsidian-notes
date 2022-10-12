@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f20519ae810ff4f0",
+        "id": "b7c9aa6590fd3062",
         "type": "leaf",
-        "dimension": 78.1011781011781,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3rd Semester/Artificial Intelligence/Day 1.md",
+            "file": "3rd Semester/Algorithm Design and Analysis/Day 3.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "945aa3df5a3f5947"
-      },
-      {
-        "id": "1b1f8984df4c2827",
-        "type": "leaf",
-        "dimension": 21.8988218988219,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "3rd Semester/Artificial Intelligence/Day 1.md"
-          }
-        },
-        "group": "945aa3df5a3f5947"
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 347.5
   },
   "right": {
     "id": "9617df787758b9c8",
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd Semester/Artificial Intelligence/Day 1.md",
+                "file": "3rd Semester/Algorithm Design and Analysis/Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd Semester/Artificial Intelligence/Day 1.md",
+                "file": "3rd Semester/Algorithm Design and Analysis/Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd Semester/Artificial Intelligence/Day 1.md"
+                "file": "3rd Semester/Algorithm Design and Analysis/Day 3.md"
               }
             }
           },
@@ -151,17 +137,17 @@
     "width": 386.8333435058594,
     "collapsed": true
   },
-  "active": "f20519ae810ff4f0",
+  "active": "82084638fee2c72d",
   "lastOpenFiles": [
+    "3rd Semester/Algorithm Design and Analysis/Day 2.md",
+    "3rd Semester/Algorithm Design and Analysis/Day 3.md",
+    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
+    "3rd Semester/Computational Physics/Day 2.md",
+    "3rd Semester/Computational Physics/Day 1.md",
     "3rd Semester/Artificial Intelligence/Day 2.md",
     "3rd Semester/Artificial Intelligence/Day 1.md",
-    "3rd Semester/Lecturers/HERRU DARMADI, S.Kom., M.TI - D3442.md",
-    "3rd Semester/Lecturers/PUTI ANDAM SURI, S.Kom, M.TI - D6416.md",
-    "3rd Semester/Artificial Intelligence/COMP6065001 - Artificial Intelligence.md",
-    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
     "3rd Semester/Algorithm Design and Analysis/Day 1.md",
-    "Pasted image 20220929115650.png",
-    "Pasted image 20220929115432.png",
-    "3rd Semester/Courses (3rd Semester).md"
+    "3rd Semester/Database Technology/Day 2.md",
+    "3rd Semester/Lecturers/D6659 - EKO SETYO PURWANTO, S.Pd., M.Kom..md"
   ]
 }

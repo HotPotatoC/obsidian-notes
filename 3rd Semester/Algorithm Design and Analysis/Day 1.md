@@ -5,7 +5,7 @@ Topics:
 	- Introduction of design and analysis of algorithms
 	- Mathematical induction and recursive function
 Date: 2022-09-28
-Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
+Lecturer: [[D3442 - HERRU DARMADI, S.Kom., M.TI]]
 
 # Evaluation
 
@@ -115,7 +115,7 @@ Selection sort
 // INPUT: arr (unsorted), n (array length)
 // OUPUT: sorted array
 BEGIN
-	FOR i = 0 TO n - 1 STEP 1 DO
+	FOR i = 1 TO n - 1 STEP 1 DO
 		min = i
 		FOR j = i + 1 TO n STEP 1 DO
 			IF arr[j] < arr[min] THEN

@@ -1,6 +1,6 @@
-Credit: 4
+Credit: 2
 Class: LG01 - LEC
-Lecturer: [[D6416 - PUTI ANDAM SURI, S.Kom, M.TI]]
+Lecturer: [[D5438 - IPING SUHARIADI, S.Si., M.Sc., Ph.D.]]
 
 ## Sessions
 

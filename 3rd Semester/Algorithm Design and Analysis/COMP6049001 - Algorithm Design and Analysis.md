@@ -1,8 +1,9 @@
 Credit: 4
 Class: LG01 - LEC
-Lecturer: [[HERRU DARMADI, S.Kom., M.TI - D3442]]
+Lecturer: [[D3442 - HERRU DARMADI, S.Kom., M.TI]]
 
 ## Sessions
 
 - [[3rd Semester/Algorithm Design and Analysis/Day 1]]
-- [[3rd Semester/Algorithm Design and Analysis/Day 2]]
+- [[3rd Semester/Algorithm Design and Analysis/Day 2
+- [[Day 3]]
