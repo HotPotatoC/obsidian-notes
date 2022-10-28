@@ -1,6 +1,7 @@
 {
   "theme": "system",
   "translucency": false,
-  "cssTheme": "Things",
-  "baseFontSize": 16
+  "cssTheme": "Sanctum",
+  "baseFontSize": 16,
+  "accentColor": ""
 }

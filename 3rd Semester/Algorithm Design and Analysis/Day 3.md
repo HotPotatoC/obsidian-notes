@@ -7,4 +7,21 @@ Topics:
 Date: 2022-10-12
 Lecturer: [[D3442 - HERRU DARMADI, S.Kom., M.TI]]
 
+# Data structure time complexities
 
+**Stack**
+- `PUSH` - $O(1)$
+- `POP` - $O(1)$
+- `ISEMPTY` - $O(1)$
+
+**Queue**
+- `ENQUEUE` - $O(1)$
+- `DEQUEUE` - $O(1)$
+- `SEARCH` - $O(n)$
+- `CLEAR` - $O(n)$
+
+**Circular Queue / Ring Buffer**
+- `ENQUEUE` - $O(1)$
+- `DEQUEUE` - $O(1)$
+- `SEARCH` - $O(n)$
+- `CLEAR` - $O(n)$

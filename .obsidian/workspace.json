@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b7c9aa6590fd3062",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3rd Semester/Algorithm Design and Analysis/Day 2.md",
-            "mode": "source",
-            "source": false
+        "id": "c7c8c53eadc8f918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f472ba59184e203a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20221003094937.png"
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +35,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd Semester/Algorithm Design and Analysis/Day 2.md",
+                "file": "Pasted image 20221003094937.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd Semester/Algorithm Design and Analysis/Day 2.md",
+                "file": "Pasted image 20221003094937.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd Semester/Algorithm Design and Analysis/Day 2.md"
+                "file": "Pasted image 20221003094937.png"
               }
             }
           },
@@ -137,17 +143,17 @@
     "width": 386.8333435058594,
     "collapsed": true
   },
-  "active": "b7c9aa6590fd3062",
+  "active": "82084638fee2c72d",
   "lastOpenFiles": [
-    "3rd Semester/Algorithm Design and Analysis/Day 1.md",
-    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
+    "3rd Semester/Algorithm Design and Analysis/Week 5 - GSLC.md",
     "3rd Semester/Algorithm Design and Analysis/Day 2.md",
     "3rd Semester/Algorithm Design and Analysis/Day 3.md",
-    "3rd Semester/Artificial Intelligence/Day 1.md",
-    "3rd Semester/Computational Physics/Day 2.md",
-    "3rd Semester/Computational Physics/Day 1.md",
+    "3rd Semester/Algorithm Design and Analysis/Day 4.md",
+    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
+    "3rd Semester/Algorithm Design and Analysis/Day 1.md",
+    "3rd Semester/Algorithm Design and Analysis/Week 5 - GSLC 1.md",
     "3rd Semester/Artificial Intelligence/Day 2.md",
-    "3rd Semester/Database Technology/Day 2.md",
-    "3rd Semester/Lecturers/D6659 - EKO SETYO PURWANTO, S.Pd., M.Kom..md"
+    "3rd Semester/Computational Physics/Day 2.md",
+    "3rd Semester/Computational Physics/Day 1.md"
   ]
 }
