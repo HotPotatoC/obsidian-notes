@@ -1,4 +1,3 @@
-# {{title}}
 Class: [[]]
 Session: 
 Topics: 

@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c8c53eadc8f918",
+        "id": "26b814cbfa9c0905",
         "type": "tabs",
         "children": [
           {
-            "id": "f472ba59184e203a",
+            "id": "5dd5b91b87b5b6cc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20221003094937.png"
+                "file": "4th Semester/Big Data Processing/LEC - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5c70300f9584e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4th Semester/Big Data Processing/LEC - Session 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,12 +77,22 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f5ca03c0ec16a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4th Semester/Big Data Processing/LEC - Session 3.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 321.5
   },
   "right": {
     "id": "9617df787758b9c8",
@@ -83,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221003094937.png",
+                "file": "4th Semester/Big Data Processing/LEC - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221003094937.png",
+                "file": "4th Semester/Big Data Processing/LEC - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "d1bdd88841ded44d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pasted image 20221003094937.png"
+                "useHierarchy": false
               }
             }
           },
@@ -136,24 +151,56 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 386.8333435058594,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "82084638fee2c72d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5c70300f9584e9a",
   "lastOpenFiles": [
-    "3rd Semester/Algorithm Design and Analysis/Week 5 - GSLC.md",
-    "3rd Semester/Algorithm Design and Analysis/Day 2.md",
-    "3rd Semester/Algorithm Design and Analysis/Day 3.md",
-    "3rd Semester/Algorithm Design and Analysis/Day 4.md",
-    "3rd Semester/Algorithm Design and Analysis/COMP6049001 - Algorithm Design and Analysis.md",
-    "3rd Semester/Algorithm Design and Analysis/Day 1.md",
-    "3rd Semester/Algorithm Design and Analysis/Week 5 - GSLC 1.md",
-    "3rd Semester/Artificial Intelligence/Day 2.md",
-    "3rd Semester/Computational Physics/Day 2.md",
-    "3rd Semester/Computational Physics/Day 1.md"
+    "4th Semester/Big Data Processing/LEC - Session 2.md",
+    "4th Semester/Big Data Processing/LEC - Session 3.md",
+    "4th Semester/Research Methodology in Computer Science/LEC - Session 2.md",
+    "4th Semester/Database Design/LEC - Session 2.md",
+    "4th Semester/Database Design/LEC - Session 3.md",
+    "Pasted image 20230302094114.png",
+    "Pasted image 20230302093851.png",
+    "Pasted image 20230302093811.png",
+    "Pasted image 20230302093758.png",
+    "Pasted image 20230302093735.png",
+    "Pasted image 20230302093332.png",
+    "4th Semester/Research Methodology in Computer Science/AOL Notes.md",
+    "4th Semester/Research Methodology in Computer Science/LEC - Session 1.md",
+    "4th Semester/Distributed Cloud Computing/LEC - Session 1.md",
+    "4th Semester/Research Methodology in Computer Science/COMP6696001 - Research Methodology in Computer Science.md",
+    "4th Semester/Distributed Cloud Computing/LEC - Session 3.md",
+    "4th Semester/Software Engineering/LEC - Session 5 & 6.md",
+    "4th Semester/Courses (4th Semester).md",
+    "4th Semester/Big Data Processing/COMP6579001 - Big Data Processing.md",
+    "4th Semester/Software Engineering/LEC - Session 3 & 4.md",
+    "4th Semester/Lecturers/D5544 - WAWAN CENGGORO, S.Kom., M.TI.md",
+    "4th Semester/Big Data Processing/LEC - Session 1.md",
+    "4th Semester/Lecturers/D6186 - KHOIRUNNISA ASSIDQI, S.Pi., M.Si..md",
+    "4th Semester/Database Design/COMP6481001 - Database Design.md",
+    "4th Semester/Big Data Processing",
+    "4th Semester/Computational Biology/LEC - Session 2.md",
+    "4th Semester/Computational Biology/LAB - Session 1.md",
+    "4th Semester/Distributed Cloud Computing/LEC - Session 2.md",
+    "Templates/College Notes.md",
+    "4th Semester/Software Engineering/LEC - Session 1 & 2.md",
+    "3rd Semester/Lecturers/D6416 - PUTI ANDAM SURI, S.Kom, M.TI.md"
   ]
 }

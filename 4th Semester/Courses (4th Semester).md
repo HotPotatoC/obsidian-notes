@@ -1,0 +1,5 @@
+1. [[COMP6100001 - Software Engineering]]
+2. [[SCIE6062001 - Computational Biology]]
+3. [[COMP6710001 - Distributed Cloud Computing]]
+4. [[COMP6481001 - Database Design]]
+5. [[COMP6579001 - Big Data Processing]]
