@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "26b814cbfa9c0905",
+        "id": "5064bb1e4c65a098",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd5b91b87b5b6cc",
+            "id": "24606b3987eb857b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4th Semester/Big Data Processing/LEC - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5c70300f9584e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4th Semester/Big Data Processing/LEC - Session 3.md",
+                "file": "Cloud Journey/AWS/Certified Cloud Practitioner Road/0002 - Cloud Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#study",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,22 +64,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "f5ca03c0ec16a0a6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "4th Semester/Big Data Processing/LEC - Session 3.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 410.0110321044922
   },
   "right": {
     "id": "9617df787758b9c8",
@@ -101,6 +78,7 @@
       {
         "id": "171835dd1bbc34c9",
         "type": "tabs",
+        "dimension": 61.17982873453853,
         "children": [
           {
             "id": "9e00483da64318ef",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4th Semester/Big Data Processing/LEC - Session 3.md",
+                "file": "Cloud Journey/AWS/Certified Cloud Practitioner Road/0002 - Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4th Semester/Big Data Processing/LEC - Session 3.md",
+                "file": "Cloud Journey/AWS/Certified Cloud Practitioner Road/0002 - Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +121,17 @@
             }
           },
           {
-            "id": "b89b0d89c290b7fc",
+            "id": "f5ca03c0ec16a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Journey/AWS/Certified Cloud Practitioner Road/0002 - Cloud Concepts.md"
+              }
+            }
+          },
+          {
+            "id": "5403887a7cdd6c53",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -152,55 +140,91 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "844ae3e2b2c32766",
+        "type": "tabs",
+        "dimension": 38.82017126546147,
+        "children": [
+          {
+            "id": "705f76acdefe089a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "63e698e3e2057c26",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5c70300f9584e9a",
+  "active": "f5ca03c0ec16a0a6",
   "lastOpenFiles": [
-    "4th Semester/Big Data Processing/LEC - Session 2.md",
-    "4th Semester/Big Data Processing/LEC - Session 3.md",
-    "4th Semester/Research Methodology in Computer Science/LEC - Session 2.md",
+    "Cloud Journey/AWS/Certified Cloud Practitioner Road/0003 - Getting Started.md",
+    "Untitled.table",
+    "Cloud Journey/AWS/Certified Cloud Practitioner Road/0000 - Let's start here.md",
+    "Untitled 1.table",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Cloud Journey/AWS/Certified Cloud Practitioner Road/0002 - Cloud Concepts.md",
+    "Cloud Journey/AWS/Certified Cloud Practitioner Road/0001 - Introduction.md",
+    "Cloud Journey/AWS",
     "4th Semester/Database Design/LEC - Session 2.md",
+    "4th Semester/Database Design/LEC - Session 1.md",
+    "4th Semester/Database Design/LEC - Session 4.md",
     "4th Semester/Database Design/LEC - Session 3.md",
-    "Pasted image 20230302094114.png",
-    "Pasted image 20230302093851.png",
-    "Pasted image 20230302093811.png",
-    "Pasted image 20230302093758.png",
-    "Pasted image 20230302093735.png",
-    "Pasted image 20230302093332.png",
-    "4th Semester/Research Methodology in Computer Science/AOL Notes.md",
-    "4th Semester/Research Methodology in Computer Science/LEC - Session 1.md",
-    "4th Semester/Distributed Cloud Computing/LEC - Session 1.md",
-    "4th Semester/Research Methodology in Computer Science/COMP6696001 - Research Methodology in Computer Science.md",
-    "4th Semester/Distributed Cloud Computing/LEC - Session 3.md",
-    "4th Semester/Software Engineering/LEC - Session 5 & 6.md",
-    "4th Semester/Courses (4th Semester).md",
-    "4th Semester/Big Data Processing/COMP6579001 - Big Data Processing.md",
-    "4th Semester/Software Engineering/LEC - Session 3 & 4.md",
-    "4th Semester/Lecturers/D5544 - WAWAN CENGGORO, S.Kom., M.TI.md",
-    "4th Semester/Big Data Processing/LEC - Session 1.md",
-    "4th Semester/Lecturers/D6186 - KHOIRUNNISA ASSIDQI, S.Pi., M.Si..md",
-    "4th Semester/Database Design/COMP6481001 - Database Design.md",
-    "4th Semester/Big Data Processing",
-    "4th Semester/Computational Biology/LEC - Session 2.md",
-    "4th Semester/Computational Biology/LAB - Session 1.md",
-    "4th Semester/Distributed Cloud Computing/LEC - Session 2.md",
+    "4th Semester/Software Engineering/LEC - Session 7 & 8.md",
+    "4th Semester/Software Engineering/LEC - Session 11 & 12.md",
+    "4th Semester/Database Design/LEC - Session 5.md",
+    "images/Pasted image 20230302093332.png",
+    "4th Semester/Big Data Processing/LEC - Session 6.md",
+    "4th Semester/Big Data Processing/LEC - Session 5.md",
+    "4th Semester/Big Data Processing/LEC - Session 2.md",
+    "images/Pasted image 20230423173730.png",
+    "images/Pasted image 20230423183332.png",
+    "images/Pasted image 20230423182429.png",
+    "images",
+    "Templates/Continuous Notes.md",
     "Templates/College Notes.md",
-    "4th Semester/Software Engineering/LEC - Session 1 & 2.md",
-    "3rd Semester/Lecturers/D6416 - PUTI ANDAM SURI, S.Kom, M.TI.md"
+    "[0001 - Preface.md",
+    "002.md",
+    "images/Pasted image 20230423173232.png",
+    "AWS Journey/Cloud Practitioner Road/Introduction.md",
+    "Cloud Journey/AWS/Certified Cloud Practitioner Road",
+    "Cloud Journey",
+    "4th Semester/Distributed Cloud Computing/LEC - Session 1.md",
+    "3rd Semester/Database Technology/Day 9.md",
+    "3rd Semester/Database Technology/Day 2.md",
+    "3rd Semester/Database Technology/Day 8.md",
+    "images/Pasted image 20230331174439.png",
+    "images/Pasted image 20230325073408.png",
+    "images/Pasted image 20230302094114.png",
+    "images/Pasted image 20230302093851.png",
+    "images/Pasted image 20230302093811.png",
+    "4th Semester/Big Data Processing"
   ]
 }

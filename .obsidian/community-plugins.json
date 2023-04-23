@@ -2,5 +2,11 @@
   "obsidian-git",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "calendar",
+  "obsidian-style-settings",
+  "obsidian-plugin-toc",
+  "code-block-copy",
+  "quick-latex",
+  "notion-like-tables"
 ]
